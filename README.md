@@ -1,3 +1,2 @@
-# react-m8scso
+# A Simple React Demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-m8scso)
